@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-user authontication
-login must have two option that should be able to switch between admin and user 
->>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 one the home page just the event title must be displayed and after clicking on it details must display 
 event time finished registration button should disaaper and display event started already 
 if time is over it should display time is over
