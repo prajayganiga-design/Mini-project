@@ -11,7 +11,10 @@
     --text-secondary: #6b7280;
     --border-color: #e5e7eb;
     --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+<<<<<<< HEAD
     --shadow-md: 0 6px 8px -1px rgba(0, 0, 0, 0.1), 0 3px 5px -1px rgba(0, 0, 0, 0.08);
+=======
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
@@ -34,6 +37,7 @@ body {
     padding: 0 20px;
 }
 
+<<<<<<< HEAD
 /* Auth Overlay */
 .auth-overlay {
     position: fixed;
@@ -158,6 +162,8 @@ body {
     font-size: 0.8rem;
 }
 
+=======
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 /* Header */
 .header {
     background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
@@ -415,11 +421,16 @@ body {
 
 .admin-event-item {
     background: var(--bg-color);
+<<<<<<< HEAD
     padding: 1.5rem;
+=======
+    padding: 1rem;
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
     border-radius: 8px;
     margin-bottom: 1rem;
     display: flex;
     justify-content: space-between;
+<<<<<<< HEAD
     align-items: flex-start;
     border: 1px solid var(--border-color);
     transition: box-shadow 0.3s;
@@ -431,10 +442,14 @@ body {
 
 .admin-event-info {
     flex: 1;
+=======
+    align-items: center;
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 }
 
 .admin-event-info h4 {
     margin-bottom: 0.5rem;
+<<<<<<< HEAD
     color: var(--text-primary);
 }
 
@@ -461,13 +476,24 @@ body {
     min-width: 120px;
     color: var(--text-primary);
     margin-right: 0.5rem;
+=======
+}
+
+.admin-event-info p {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 }
 
 .admin-event-actions {
     display: flex;
+<<<<<<< HEAD
     flex-direction: column;
     gap: 0.5rem;
     min-width: 140px;
+=======
+    gap: 0.5rem;
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 }
 
 /* Form Styles */
@@ -637,6 +663,7 @@ body {
         width: 100%;
         justify-content: center;
     }
+<<<<<<< HEAD
 
     .auth-info {
         flex-direction: column;
@@ -666,6 +693,8 @@ body {
     .registrations-table td {
         padding: 0.5rem;
     }
+=======
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
 }
 
 /* Event Details */
@@ -691,6 +720,7 @@ body {
     color: var(--text-primary);
 }
 
+<<<<<<< HEAD
 /* Modal Actions */
 .modal-actions {
     display: flex;
@@ -749,3 +779,5 @@ body {
     background: #138496;
 }
 
+=======
+>>>>>>> 86f164e88dde14076ef5e91d06b15d99a8b2eceb
